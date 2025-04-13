@@ -2,7 +2,7 @@
 
 💻 **Computer Science Student @ Dalhousie University**  
 🔐 **Certificate in Communication Technologies & Cybersecurity**  
-🔐 **Security+ Certified**
+🔐 **Security+ Certified** 
 🛡️ **Cybersecurity Enthusiast | Security & Network Researcher**
 
 I'm a **Computer Science student** passionate about **Cybersecurity, network security, and system security**. My focus is on exploring **vulnerabilities, network defense strategies, and digital forensics**.  
