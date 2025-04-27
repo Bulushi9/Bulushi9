@@ -58,7 +58,6 @@ I focus on exploring **vulnerabilities**, **network defense strategies**, and **
 
 - [🔑 Keylogger in Python](https://github.com/Bulushi9/keylogger) — Developed an educational keylogger for cybersecurity research.
 - [🔒 Cipher Server Application](https://github.com/Bulushi9/CipherServer-Java) — Built a secure client-server app using Caesar and Vigenère encryption.
-- [🚘 Car Showroom Web Application](https://github.com/bulushi9) — Contributed backend security (JWT Authentication, Middleware Protection).
 
 ---
 
