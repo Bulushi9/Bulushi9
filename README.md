@@ -6,10 +6,6 @@
   <a href="https://www.linkedin.com/in/basimbalushi/">
     <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-%23117ACA?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="Cybersecurity Badge"/>
   </a>
-  <a href="https://github.com/Bulushi9">
-    <img src="https://img.shields.io/badge/Post--Quantum%20Researcher-%237A4EC5?style=for-the-badge&logo=quantconnect&logoColor=white" alt="Post-Quantum Badge"/>
-  </a>
-</p>
 
 # 👋 Hey there! I'm Basim
 
