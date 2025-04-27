@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Basim;Cybersecurity+Enthusiast+%F0%9F%94%90;Post-Quantum+Researcher+%F0%9F%94%8E;Security+%2F+Network+Researcher+%F0%9F%9B%A1%EF%B8%8F;Let's+Connect!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Basim;Cybersecurity+Enthusiast+%F0%9F%94%90;Security+%2F+Network+Researcher+%F0%9F%9B%A1%EF%B8%8F;Let's+Connect!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 💻 **Computer Science Student @ Dalhousie University**  
 🔐 **Certificate in Communication Technologies & Cybersecurity**  
-🎓 **Security+ Certified | Cybersecurity Enthusiast | PQC Researcher**  
+🎓 **Security+ Certified | Cybersecurity Enthusiast**  
 
-I'm a **Computer Science student** passionate about **cybersecurity, network security, post-quantum cryptography, and system protection**.  
+I'm a **Computer Science student** passionate about **cybersecurity, network security, and system protection**.  
 I focus on exploring **vulnerabilities**, **network defense strategies**, and **digital forensics** through **hands-on research** and **real-world projects**.
 
 ---
@@ -44,7 +44,6 @@ I focus on exploring **vulnerabilities**, **network defense strategies**, and **
 ### ⚙️ Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 **Tools**: Nmap, Nessus, OSINT Framework, Postman, PuTTY, WinSCP, Docker
 
@@ -55,7 +54,7 @@ I focus on exploring **vulnerabilities**, **network defense strategies**, and **
 - 🛡️ Advanced Network Security & Penetration Testing  
 - 🧹 Digital Forensics & Malware Analysis  
 - 🏴‍☠️ Ethical Hacking & System Hardening Techniques  
-- 🔐 Post-Quantum Cryptography (PQC) Research and Applications
+- 🔥 **Post-Quantum Cryptography (PQC) Research and Applications**
 
 ---
 
@@ -91,11 +90,17 @@ I focus on exploring **vulnerabilities**, **network defense strategies**, and **
 
 ## 📊 GitHub Stats
 
-![Basim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bulushi9&show_icons=true&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bulushi9&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulushi9&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bulushi9&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bulushi9&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bulushi9&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
