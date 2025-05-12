@@ -63,7 +63,7 @@ I focus on exploring **vulnerabilities**, **network defense strategies**, and **
 
 ## 🌍 Community & Engagement
 
-- 🎤 Presented cybersecurity workshops
+- 🎤 Presented workshops
 - 🏆 Participated in Capture The Flag (CTF) competitions
 - 🛡️ Engaged in security research and hands-on cybersecurity labs
 - 🤝 President of the Omani Students Association (Dalhousie University)
